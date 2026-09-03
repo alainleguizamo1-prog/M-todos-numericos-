@@ -1,1 +1,0 @@
-# Metodos-numericos-2
